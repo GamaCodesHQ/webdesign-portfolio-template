@@ -15,7 +15,7 @@ A clean, responsive portfolio website template built with HTML and CSS, perfect 
 
 ## Demo
 
-View the live demo here: [Add your GitHub Pages or live URL]
+View the live demo here: [Live URL]
 
 ---
 
@@ -25,4 +25,4 @@ To run locally:
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/YourUsername/portfolio-template.git
+   git clone https://github.com/GamaCodesHQ/portfolio-template.git
